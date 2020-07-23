@@ -1,0 +1,6 @@
+#!/bin/sh
+timestamp=`date +%Y-%m-%dT%T%z`
+echo
+echo "$timestamp - The time is $timestamp"
+echo "$timestamp - The system PATH is $PATH"
+echo
